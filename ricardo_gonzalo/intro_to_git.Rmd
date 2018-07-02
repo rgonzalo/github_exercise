@@ -1,0 +1,14 @@
+---
+title: "Into To Git"
+output: html_document
+---
+
+## Git
+
+1. Create Git account
+2. Fork https://github.com/sbartek/github_exercise
+3. Clone your fork
+4. Create directory `<your_name_surname>` and copy there content of directory `bartek_skorulski`
+5. Push and request merge.
+
+
